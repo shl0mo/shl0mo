@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shl0mo1D9u3l1c940j3ct2)
 <br/>
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=shl0mo&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <!--
 **shl0mo/shl0mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
