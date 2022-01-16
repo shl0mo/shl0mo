@@ -1,4 +1,4 @@
-# Hello there 👋
+<h1 style="text-align: center;"> Hello there 👋 </h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shl0mo1D9u3l1c940j3ct2)
 <br/>
