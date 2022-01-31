@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there 👋 </h1>
 
 <!--span> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shl0mo1D9u3l1c940j3ct2) </span -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shl0mo&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shl0mo&show_icons=true&theme=tokyonight)
 
 
