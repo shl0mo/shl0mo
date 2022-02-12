@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there 👋 </h1>
 
 <!--span> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shl0mo1D9u3l1c940j3ct2) </span -->
-<div align="center"> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shl0mo)](https://github.com/anuraghazra/github-readme-stats) </div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shl0mo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
